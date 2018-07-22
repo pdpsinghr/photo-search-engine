@@ -12,5 +12,12 @@
  
  python search_engine.py --query ""(whatever you want to search)"" --output dataset/"(whatever you want to search)"
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/pdpsinghr/photo-search-engine/blob/master/images/Screenshot%20from%202018-07-22%2007-20-32.png)
+![Alt Text](https://github.com/pdpsinghr/photo-search-engine/blob/master/images/Screenshot%20from%202018-07-22%2007-20-32.png)
+
+![Alt Text](https://github.com/pdpsinghr/photo-search-engine/blob/master/images/Screenshot%20from%202018-07-22%2007-20-39.png)
+
+![Alt Text](https://github.com/pdpsinghr/photo-search-engine/blob/master/images/Screenshot%20from%202018-07-22%2007-20-45.png)
+
+![Alt Text](https://github.com/pdpsinghr/photo-search-engine/blob/master/images/Screenshot%20from%202018-07-22%2007-20-53.png)
+
+
